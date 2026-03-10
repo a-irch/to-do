@@ -72,4 +72,4 @@ backend/!**/src/main/**/build/
 backend/!**/src/test/**/build/
 
 ### VS Code ###
-backend/.vscode/
+*.vscode/
